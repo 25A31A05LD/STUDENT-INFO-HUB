@@ -1,0 +1,24 @@
+                         STUDENT_INFO-HUB
+         
+                                      ALGORITHM
+
+STEP 01 : START
+STEP 02 : SET attempts = 0
+STEP 03 : Store original password, original ID
+STEP 04 : READ Password, ID
+STEP 05 : DECLARE choice, Search ID
+STEP 06 : IF(password, ID is correct), Login successful
+          ELSE, only 3 attempts
+STEP 07 : DISPLAY menu list
+STEP 08 : SELECT a valid option
+STEP 09 : CREATE individual functions and call through switch case
+STEP 10 : IF(option is view), File with students list opens
+STEP 11 : SEARCH by ID and view
+STEP 12 : IF(option is add),
+STEP 13 : CREATE a file (based on student year, branch and section)
+STEP 14 : IF(option is delete)
+STEP 15 : SEARCH through ID, then delete
+STEP 16 : EXIT(0) (last option)
+STEP 17 : STOP
+              
+
